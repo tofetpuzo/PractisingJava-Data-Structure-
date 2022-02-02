@@ -1,3 +1,4 @@
+package PractiseJavaDataStructure;
 public class GameEntry {
 
     private String name;
