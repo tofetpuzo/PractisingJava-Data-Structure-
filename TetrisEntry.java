@@ -1,9 +1,9 @@
 package PractiseJavaDataStructure;
-public class GameEntry {
+public class TetrisEntry {
 
     private String name;
     private int score;
-    public GameEntry(String n, int s) {
+    public TetrisEntry(String n, int s) {
         this.name = n;
         this.score = s;
     }
