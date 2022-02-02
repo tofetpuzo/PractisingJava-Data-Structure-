@@ -1,0 +1,500 @@
+  198  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  199  python3 automate.py
+  200  clear
+  201  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  202  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  203  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  204  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  205  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  206  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  207  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  208  clear
+  209  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  210  clear
+  211  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  212  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  213  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  214  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  215  clear
+  216  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  217  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  218  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  219  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  220  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  221  clear
+  222  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  223  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  224  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  225  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  226  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  227  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  228  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  229  clear
+  230  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  231  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  232  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  233  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  234  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  235  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  236  clear
+  237  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  238  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  239  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  240  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  241  clear
+  242  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  243  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  244  clear
+  245  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  246  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  247  clear
+  248  ls
+  249  python3 -m venv .venv
+  250  pip3 install openpyxl
+  251  pip3 install --upgrade
+  252  pip install --upgrade
+  253  python3 -m pip3 install --upgrade
+  254  python3 -m pip install --upgrade
+  255  python -m pip3 install --upgrade pip3
+  256  clear
+  257  pip3 install --upgrade pip
+  258  pip3 install openpyxl
+  259  ls
+  260  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  261  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  262  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  263  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  264  clear
+  265  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  266  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  267  clear
+  268  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  269  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  270  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  271  clear
+  272  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  273  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  274  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  275  clear
+  276  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  277  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  278  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  279  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  280  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  281  clear
+  282  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  283  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  284  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  285  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  286  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  287  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  288  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  289  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  290  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  291  clear
+  292  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  293  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  294  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  295  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  296  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  297  clear
+  298  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  299  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  300  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  301  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  302  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  303  clear
+  304  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  305  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  306  clear
+  307  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  308  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  309  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  310  clear
+  311  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  312  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  313  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  314  clear
+  315  pip install numpy
+  316  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  317  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  318  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  319  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  320  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  321  clear
+  322  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  323  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  324  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  325  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  326  clear
+  327  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  328  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  329  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  330  clear
+  331  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  332  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  333  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  334  clear
+  335  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  336  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  337  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  338  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  339  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  340  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  341  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  342  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  343  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  344  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  345  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  346  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  347  clear
+  348  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  349  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  350  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  351  clear
+  352  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  353  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  354  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  355  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  356  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  357  clear
+  358  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  359  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  360  clear
+  361  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  362  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  363  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  364  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  365  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  366  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  367  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  368  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  369  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  370  clear
+  371  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  372  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  373  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  374  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  375  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  376  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  377  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  378  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/metric.py
+  379  clear
+  380  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  381  clear
+  382  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  383  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  384  clear
+  385  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  386  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  387  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  388  clea5
+  389  clear
+  390  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  391  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  392  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  393  clear
+  394  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  395  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  396  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  397  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  398  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  399  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  400  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  401  clear
+  402  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  403  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  404  clear
+  405  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  406  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  407  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  408  clea
+  409  clear
+  410  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/divisions.py
+  411  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  412  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  413  clear
+  414  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  415  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  416  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  417  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  418  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  419  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  420  2020
+  421  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  422  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  423  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/leapyear.py
+  424  clear
+  425  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/square_list.py
+  426  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/square_list.py
+  427  clear
+  428  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  429  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  430  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  431  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  432  clear
+  433  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  434  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  435  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  436  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  437  clear
+  438  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  439  clear
+  440  /Users/femitemiola/Documents/gitdoc/.venv/bin/python /Users/femitemiola/Documents/gitdoc/.venv/automate.py
+  441  clear
+  442  git init
+  443  git add .
+  444  git commit -m "initialcommit"
+  445  clear
+  446  git remote add origin https://github.com/tofetpuzo/python_test.git
+  447  git push
+  448  git push --set-upstream origin master
+  449  git push -u origin main
+  450  git push --set-upstream origin master
+  451  git push --set-upstream origin main
+  452  rm -rf .git
+  453  git init
+  454  git add .
+  455  git commit -m "initialcommit"
+  456  clear
+  457  git remote add origin https://github.com/tofetpuzo/python_test.git
+  458  git push --set-upstream origin main
+  459  git pull
+  460  git branch -M main
+  461  git push 
+  462  git push --set-upstream origin main
+  463  clear
+  464  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  465  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  466  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  467  users
+  468  putty
+  469  exec zsh
+  470  exit
+  471  ls -ltr
+  472  clear
+  473  zsh
+  474  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  475  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  476  source /Users/femitemiola/Documents/gitdoc/.venv/bin/activate
+  477  ls 
+  478  yum intsall nfs-utils rpcbind
+  479  sudo dnf install nfs-utils rpcbind
+  480  su -
+  481  mysql -u -root -p
+  482  exit
+  483  mysql -u -root -p
+  484  ls 
+  485  ls -a
+  486  open -t .bash_profile
+  487  mysql -u -root -p
+  488  open -t .bash_profile
+  489  exit
+  490  mysql -u -root -p
+  491  whoami
+  492  sudo su -
+  493  sudo mqsql -u -root -p
+  494  sudo mqsql -u -root -p
+  495  sudo mysql -u -root -p
+  496  sudo su -
+  497  mysql
+  498  sudo su -
+  499  exit
+  500  cd
+  501  ls 
+  502  ls
+  503  git clone https://github.com/tofetpuzo/PractisingJava-Data-Structure.git
+  504  git add .
+  505  git init
+  506  git add .
+  507  git rm --cached PractisingJava-Data-Structure
+  508  git rm -f --cached PractisingJava-Data-Structure
+  509  git innit
+  510  git init
+  511  git add .
+  512  git rm -f --cached PractisingJava-Data-Structure
+  513  git add .
+  514  git commit -m "Learning-Data-Structure-in-Java"
+  515  git push
+  516  git remote add PractisingJava-Data-Structure https://github.com/tofetpuzo/PractisingJava-Data-Structure
+  517  git remote add PractisingJava-Data-Structure
+  518  git push PractisingJava-Data-Structure
+  519  git push --set-upstream PractisingJava-Data-Structure master
+  520  git add .
+  521  git commit -m "Learning-Data-Structure-in-Java"
+  522  git push
+  523  git add .
+  524  git commit -m "Learning-Data-Structure-in-Java"
+  525  git push
+  526  git checkout master
+  527  git merge origin/main
+  528  git branch -b
+  529  git branch -a
+  530  clear
+  531  whoami
+  532  git branch -m master main
+  533  git add .
+  534  git commit -m "Learning-Data-Structure-in-Java"
+  535  git add .
+  536  git commit -m "Learning-Data-Structure-in-Java"
+  537  git push
+  538  git push PractisingJava-Data-Structure main
+  539  git push -u origin main
+  540  git branch -m master main
+  541  git push -u origin main
+  542  clear
+  543  git cherry-pick
+  544* 
+  545  git cherry-pick -e Learning-Data-Structure-in-Java
+  546  git cherry-pick -e "Learning-Data-Structure-in-Java"
+  547  git checkout master
+  548  git commit -m "Learning-Data-Structure-in-Java"
+  549  git branch main master -f
+  550  git checkout main
+  551  git push
+  552  git push origin main -f
+  553  git add .
+  554  git commit -m "Learning-Data-Structure-in-Java"
+  555  git push origin main -f
+  556  git push master
+  557  git push origin main -f
+  558  git pull 
+  559  git push
+  560  git push PractisingJava-Data-Structure HEAD:master
+  561  git push PractisingJava-Data-Structure HEAD
+  562  git pull
+  563  git push PractisingJava-Data-Structure HEAD
+  564  git push PractisingJava-Data-Structure HEAD:main
+  565  git push --help
+  566  git fetch
+  567  git push
+  568  git push PractisingJava-Data-Structure HEAD:master
+  569  git merge origin/main
+  570  git branch -m master main
+  571  git branch -a
+  572  git branch -d main
+  573  git branch -D main
+  574  git push --delete master master
+  575  git branch -a
+  576  git add .
+  577  git commit -m "Learning-Data-Structure-in-Java"
+  578* h
+  579  git push PractisingJava-Data-Structure HEAD:master
+  580  git log --reverse master
+  581  git log -- reverse master
+  582  git log
+  583  git log master
+  584  git log --reverse master
+  585  git log -- reverse master
+  586  git rebase --onto master
+  587  git rebase --onto
+  588  git rebase --onto "PractisingJava-Data-Structure"
+  589  git rebase --onto "Learning-Data-Structure-in-Java"
+  590  clear
+  591  git log master..
+  592  git log master
+  593  git log master -2master
+  594  git log master --2master
+  595* 
+  596  clear
+  597  git rebase --onto PractisingJava-Data-Structure/master
+  598* 
+  599  git rebase --onto "Learning-Data-Structure-in-Java"
+  600  git rebase --onto 'Learning-Data-Structure-in-Java'
+  601  git rebase --onto "PractisingJava-Data-Structure"
+  602  git rebase --onto "Learning-Data-Structure-in-Java/master"
+  603  git rebase --onto Learning-Data-Structure-in-Java/master
+  604  clear
+  605  git rebase -i origin/master
+  606  git rebase -i origin/main
+  607  git rebase-i origin/main
+  608  git --help rebase
+  609  git rebase --continue origin/master
+  610  git --reapply
+  611  clea
+  612  clear
+  613  git branch master
+  614  git checkout master
+  615  git merge develop --allow-unrelated-histories
+  616  git checkout master
+  617  git branch main master -f
+  618  git checkout main
+  619  git checkout main -f
+  620  git push main -f
+  621  cleafr
+  622  clear
+  623  git remove -v
+  624  git remote -v
+  625  git push myOrigin main
+  626  git remote remove myOrigin
+  627  git push PractisingJava-Data-Structure main
+  628  git push PractisingJava-Data-Structure master
+  629  git remote remove PractisingJava-Data-Structure
+  630  git remote add origin https://github.com/tofetpuzo/PractisingJava-Data-Structure.git
+  631  git push origin main
+  632  git pull
+  633  git pull remote main
+  634  ls 
+  635  git add .
+  636  git commit -m "Learning-Data-Structure-in-Java"
+  637  git push
+  638  git push --set-upstream origin main
+  639  git pull 
+  640  git pull remote master
+  641  git pull remote main
+  642  clear
+  643  git branch main 
+  644  git branch -D main
+  645  git push remote --delete main
+  646  git clone https://github.com/tofetpuzo/PractisingJava-Data-Structure-.git
+  647  git init
+  648  git add .
+  649  git rm -f --cached PractisingJava-Data-Structure
+  650  git rm -f --cached PractisingJava-Data-Structure
+  651  git add .
+  652  git rm -f --cached PractisingJava-Data-Structure
+  653  ls 
+  654  cd 
+  655  ls 
+  656  cd Documents
+  657  ls
+  658  cd PractisingJava-Data-Structure
+  659  cd PractiseJavaDataStructure
+  660  git clone https://github.com/tofetpuzo/PractisingJava-Data-Structure-.git
+  661  git init
+  662  git add .
+  663  git commit -m"learnDataStructure"
+  664  git push 
+  665  git push --set-upstream origin main
+  666  git push
+  667  git remote add origin https://github.com/tofetpuzo/PractisingJava-Data-Structure-.git
+  668  git push origin
+  669  git push --set-upstream origin master
+  670  git push
+  671  git branch --move master main
+  672  git push --set-upstream origin main
+  673  git pull
+  674  git push --set-upstream origin main
+  675  git pull
+  676  git config pull.rebase true
+  677  git push --set-upstream origin main
+  678  git config pull.ff only
+  679  git push --set-upstream origin main
+  680  git config pull.ff only
+  681  git config pull.rebase true
+  682  git branch -all
+  683  git branch --all
+  684  git push origin --delete master
+  685  git branch --all
+  686  git push --set-upstream origin main
+  687  git add .
+  688  git commit -m"learnDataStructure"
+  689  git push -f origin main
+  690  git branch -all
+  691  git branch --all
+  692  git add .
+  693  git commit -m"learnDataStructure"
+  694  git push -f origin main
+  695  clear
+  696  history
+  697  history > file.text
