@@ -17,3 +17,16 @@ Sorting an Array
     Iterate:
         for j from 1 to n - 1
             do Insert A[j] at the proper position with A[0] , A[1] ... A[j]
+
+
+Methods for Arrays and Random Numbers in java
+1. equal(A, B) : it returns true if A and B are equal
+2. fill(A, x) : it stores values in every cell of array A, provided the type of array A is defined.
+
+3. copyOf(A, x): Returns an array of size n such that the first elements of a given set "w" is copied from A, provided w = min{n, A.lenth}
+4. if n > A.length, then the last n - A.length elements in the array will be padded and set to defaults such as null and 0
+5. copyOfRange(A, s, t): returns an array of size t - s such that the array is copied in order from A[s] to A[t - 1], where s < t, padded as with copyOf() if t > A.length. 
+6. Sorts the array A based on natural ordering of its elements, which must be comparable. Sorting Algorithms 
+7. binarySearch(A, x) : searches the sorted array A for value x, returning the index where it is found or else the index of where it could be inserted while maintaining the sorted order. 
+
+Pseudocode Random Number Generation:

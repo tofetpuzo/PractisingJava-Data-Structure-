@@ -47,7 +47,17 @@ public class TetrisScoreboard {
 
     /** Insertion-sort of an array of characters into non-descending  */
         public static void insertionSort(char[] data){
-            
+            int n = data.length;
+            for(int k = 1; k < n; k++) {  //begin with second character
+                char current_value = data[k]; //time to insert current_value
+                int j = k;  // insert the exact index j for char current_value
+                while( j > 0 && data[j - 1] > current_value){ //thus data[j -1] must go after cuurent_value
+                    data[j] = data[j -1]; //
+                    j --;
+                }
+                data[j] = current_value;
+            }
+             
     }
 
 
