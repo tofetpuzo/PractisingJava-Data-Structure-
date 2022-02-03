@@ -84,11 +84,13 @@ public class TetrisScoreboard {
                 System.out.println("Arrays are equal after sorting: " + Arrays.equals(dataset, original_copy));
                 System.out.println("original_copy= " + Arrays.toString(original_copy));
                 System.out.println("original_copy= " + Arrays.toString(dataset));
-
             }
 
         }
 
     }
+    
+
+
 
 }
