@@ -38,12 +38,17 @@ public class TetrisScoreboard {
         if (i < 0 || i >= numEntries)
             throw new IndexOutOfBoundsException("Invalid: " + i);
         TetrisEntry temp = board[i]; // keep the object which will be removed...
-        for (int j = i; j < numEntries - 1; i++) {
+        for (int j = i; j < numEntries - 1; i++) { //This iteration helps us count score from where we want to remove
             board[j] = board[j + 1];
-            numEntries--;
-            board[j + 1] = null;
-        }
+            board[numEntries - 1] = null;
+        } numEntries--;
         return temp;
     }
+
+    /** Insertion-sort of an array of characters into non-descending  */
+        public static void insertionSort(char[] data){
+            
+    }
+
 
 }

@@ -1,0 +1,19 @@
+1. Using the array allows me to understand that there are two things need by the array.
+First, you have to consider the content and where you want to put
+Second, you have to correctly position the content so that you easily reference it with indexing.
+
+Sorting an Array
+ The Insertion-sort Algorithm is a type of Algorithm which considers one element at a time, usually placing the element in the correct order relative to those before it.
+ 1. Starting the Algorithm , I consider the first element in the array, if it is smaller than the first which usually sorts itself. 
+ 2. Then next step is to consider the next element in the array, if it is smaller we then swap them. 
+ 3. I then consider the third element in the array and repeat step 2, if and only if the element is less than itself. 
+ 4. Consider the four element and repeat the steps.
+
+ Pseudocode is show bellow
+
+ Algorithm InsertSort (A):
+    Input: Give a certain comparable elements
+    Ouput: an order array of elements in non-descending order.
+    Iterate:
+        for j from 1 to n - 1
+            do Insert A[j] at the proper position with A[0] , A[1] ... A[j]
