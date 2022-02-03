@@ -29,4 +29,16 @@ Methods for Arrays and Random Numbers in java
 6. Sorts the array A based on natural ordering of its elements, which must be comparable. Sorting Algorithms 
 7. binarySearch(A, x) : searches the sorted array A for value x, returning the index where it is found or else the index of where it could be inserted while maintaining the sorted order. 
 
-Pseudocode Random Number Generation:
+Pseudocode Random Number Generation formular:
+next = (a * cur + b ) % n;
+Methods of java.util.Random class include the following:
+
+nextBoolean(): Returns the next Pseudorandom boolean value.
+
+nextDouble(): returns the next Pseudorandom double value between 0.0 and 1.0
+
+nextInt(): return next Pseudorandom int value.
+
+nextInt(n): returns the next Pseudorandom int value in the range 0 up to but not including n.
+
+setSeed(s): sets the seed of this pseudorandom number generator to the long s.
