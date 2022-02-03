@@ -27,6 +27,7 @@ public class TetrisScoreboard {
             }
             {
                 board[game_entry_index] = e;
+
             }
 
         }
@@ -37,9 +38,12 @@ public class TetrisScoreboard {
         if (i < 0 || i >= numEntries)
             throw new IndexOutOfBoundsException("Invalid: " + i);
         TetrisEntry temp = board[i]; // keep the object which will be removed...
-
-        return null;
-
+        for (int j = i; j < numEntries - 1; i++) {
+            board[j] = board[j + 1];
+            numEntries--;
+            board[j + 1] = null;
+        }
+        return temp;
     }
 
 }
