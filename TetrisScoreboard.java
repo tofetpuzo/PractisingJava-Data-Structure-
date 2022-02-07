@@ -90,30 +90,5 @@ public class TetrisScoreboard {
 
     }
 
-    /** Class for doing encryption and decryption using the Caesar Cipher */
-    public class CaesarCipherMessage {
-        protected char[] encoder_message = new char[26];
-        protected char[] decoder_message = new char[26];
-
-        /** Constructor that initialises the encoder_message and encoder_message */
-
-        public CaesarCipherMessage(int mesage_rotation) {
-            for (int j = 0; j < 26; j++) {
-                encoder_message[j] = (char) ('A' + (j + mesage_rotation) % 26);
-                decoder_message[j] = (char) ('A' + (j - mesage_rotation + 26) % 26);
-            }
-
-        }
-
-        /* Returns String representing encrypted message */
-        public String encryption(String message) {
-            return transform(message, encoder_message);
-
-        }
-    }
-
-    public String transform(String message, char[] encoder_message) {
-        return null;
-    }
 
 }
