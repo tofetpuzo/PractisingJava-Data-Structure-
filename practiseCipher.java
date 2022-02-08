@@ -37,7 +37,8 @@ public class practiseCipher {
         System.out.println("Encryoted code:" + new String(ciphers.encode_message));
         System.out.println("Decrypted code:" + new String(ciphers.encode_message));
         String message = "Today is a good day";
-        System.out.println("Encrypted message" + ciphers.decrypt(message));
         System.out.println("Encrypted message" + ciphers.encrypt(message));
+        String coded = ciphers.encrypt(message);
+        System.out.println("New message" + ciphers.decrypt(coded));
     }
 }

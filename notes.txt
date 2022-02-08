@@ -42,3 +42,8 @@ nextInt(): return next Pseudorandom int value.
 nextInt(n): returns the next Pseudorandom int value in the range 0 up to but not including n.
 
 setSeed(s): sets the seed of this pseudorandom number generator to the long s.
+
+
+Two-Dimensioonal Arrays and Positional Games
+
+A common way most games work is to involve objects that reside in a two dimensional space. Software for such positional games usually need require representing objects in a 2-dimesional array where two indices let us call them i and j, which refers to the cells in the array. The first index usually refers to a row number and the second to a column number. As a result of this, the possibility of storing and maintaining two-dimensional game boards and perform other kinds of computations involving data stored in rows and columns, becomes increasing possible.ß 
