@@ -46,4 +46,10 @@ setSeed(s): sets the seed of this pseudorandom number generator to the long s.
 
 Two-Dimensioonal Arrays and Positional Games
 
-A common way most games work is to involve objects that reside in a two dimensional space. Software for such positional games usually need require representing objects in a 2-dimesional array where two indices let us call them i and j, which refers to the cells in the array. The first index usually refers to a row number and the second to a column number. As a result of this, the possibility of storing and maintaining two-dimensional game boards and perform other kinds of computations involving data stored in rows and columns, becomes increasing possible.ß 
+A common way most games work is to involve objects that reside in a two dimensional space. Software for such positional games usually need require representing objects in a 2-dimesional array where two indices let us call them i and j, which refers to the cells in the array. The first index usually refers to a row number and the second to a column number. As a result of this, the possibility of storing and maintaining two-dimensional game boards and perform other kinds of computations involving data stored in rows and columns, becomes increasing possible.
+However, in java Arrays are one-dimensional; we use a single index to access each cell of an array. Nevertheless, java gives that flexibility of creating a 2-dimensional array, that is an array of arrays. That is, we can define a 2-dimensional array to be an array; with each of the cells in it becoming another array. Such a two-dimesional is often called a MATRIX.
+
+Java gives a way to declare a twoo-dimensional array as follows:
+
+    int[][] dataset = new int[8][0];
+where 8 is the number of rows and 10 is the number of columns;
