@@ -2,7 +2,7 @@ package PractiseJavaDataStructure;
 
 public class TicTacToeGame {
     public static final int X = 1, O = -1;
-    public static final int EMPTY = 0;
+    public static final int BLANK = 0;
     private int boardGame[][] = new int[3][3];
     private int player;
 
@@ -15,7 +15,7 @@ public class TicTacToeGame {
     private void clearBoard() {
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                boardGame[i][j] = EMPTY;
+                boardGame[i][j] = BLANK;
             }
             player = X;
         }
@@ -26,7 +26,7 @@ public class TicTacToeGame {
     public void placeMark(int i, int j) throws IllegalArgumentException {
         if ((i < 0) || (i > 2) || (j < 0) || (j < 2))
             throw new IllegalArgumentException("Invalid boardGame position");
-        if (boardGame[i][j] != EMPTY)
+        if (boardGame[i][j] != BLANK)
             throw new IllegalArgumentException(" boardGame position occupied");
         boardGame[i][j] = player;
         player = -player; // this places the mark for the current player
@@ -72,7 +72,7 @@ public class TicTacToeGame {
                     case O:
                         sb.append("O");
                         break;
-                    case EMPTY:
+                    case BLANK:
                         sb.append(" ");
                         break;
                 }
