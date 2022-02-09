@@ -50,14 +50,26 @@ public class DoublyLinkedList {
 
     public Node<String> removeFirst(String e){
         if(isEmpty()) return null;
-        addBetweenNode(e, header., next);
-        return header;
+        return remove(header.getNext());        
+    }
 
-        
+    public Node<String> removeLast(String e){
+        if(isEmpty()) return null;
+        return remove(trailer.getPrev());        
     }
 
 
-    private void addBetweenNode(java.lang.String e, Node<java.lang.String> header2, Node<java.lang.String> next) {
+    private Node<String> remove(Node<String> node) {
+        Node<String> predecessor = 
+
+        return null;
+    }
+    private void addBetweenNode(String e, Node<String> predecessor, Node<String> successor) {
+        Node<String> newest = new Node<>(e, predecessor, successor);
+        predecessor.setNext(newest);
+        successor.setPrev(newest);
+        size++;
+
     }
 
 }
