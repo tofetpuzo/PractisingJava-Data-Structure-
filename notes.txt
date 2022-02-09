@@ -87,9 +87,24 @@ Algorithm removeirstNode(n);
         head = head.next;
         size -= 1;
 
-Implementation of a singly linked list class\
+Implementation of a singly linked list class
 - size(), isEmpty(), first(), last(), addFirst(n), addLast(n), removeFirst()
 
 
 1.3 CIRCULARLY LINKED LISTS
 Most times, linked lists are presumed to only store a sequence of items, in a linear order, that is from first to list. Far from this, there are actually many appplicatioons in which data can viewed as having a cyclic order, and well-defined relationship with nodes which might not be its neighbors, usually without a fixed beginning or end.
+A typical example is a game with multiple players where control has to be passed, and players required to rotate.
+
+Round-Robin Scheduling.
+This is an Algorithm that allows the operating system share resources with different processes to co-exist with each other effectively sharing the use of CPUs and its resources.
+
+A Circularly linked list is designed in such a way in where instead of the tail to have a reference of null, it points back to the head.
+
+DOUBLY LINKED LISTS
+This type of linked lists provides us with information of each node ; that is each node stores an explicit reference of the node before it and a reference to the node after it. This is known as doubly linked list. This type of list provides a variety of O(1)-time update operations including insertions and deletions of elements with unknown position within the list.
+
+Header and Trailer Sentinels
+To avoid special cases when operating near the boundaries of a doubly linked list, it helps to add special nodes at both ends of the list which are referred to as "header" at the beginning of the list and a "trailer" node at the end of the list. These nodes are known as sentinels(or guards).
+
+Methods in a Doubly Linked List class
+-size(), isEmpty(), first(), last(), addFirst()
