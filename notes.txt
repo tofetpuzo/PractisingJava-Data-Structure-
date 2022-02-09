@@ -1,4 +1,4 @@
-DATA STRUCTURE
+DATA STRUCTURE using 
 1. ARRAY 
 Using the array allows me to understand that there are two things need by the array.
 First, you have to consider the content and where you want to put
