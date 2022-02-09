@@ -112,4 +112,11 @@ Methods in a Doubly Linked List class
 NB: When doing an equivalence testing with Lists; a concept of "erasure" must come to mind where java can not determine at runtime; the parameter you passed into the generic parameter
 
 
-Cloning Data Structure
+Cloning Data Structure:
+In object-oriented programming; abstraction allows for data structures to be treated a single entity, even though the encapsulated Implementation of the structure relies on much more complex combination of object in a particular instance of class. 
+Each Class in Java is actually responsible for defining whether it instance can be copied(Goodrich et al.) and if so precisely how the copy is constructed. The Object superclass defines a method named clone, which can be used to produce what is known as a shallow copy of an object.
+A deepy copy of Cloning
+
+People[] enthic_groups = new Person[contacts.lenth];
+for(int k = 0; k < contacts.length; k++)
+enthic_group[k] = (Person) contact[k].clone()

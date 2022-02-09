@@ -58,7 +58,6 @@ public class DoublyLinkedList {
         return remove(trailer.getPrev());        
     }
 
-
     private Node<String> remove(Node<String> node) {
         Node<String> predecessor = node.getPrev();
         Node<String> successor = node.getNext();
@@ -67,6 +66,7 @@ public class DoublyLinkedList {
         size --;
         return node.getStringlement();
     }
+    
     private void addBetweenNode(String e, Node<String> predecessor, Node<String> successor) {
         Node<String> newest = new Node<>(e, predecessor, successor);
         predecessor.setNext(newest);
