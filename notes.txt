@@ -108,3 +108,8 @@ To avoid special cases when operating near the boundaries of a doubly linked lis
 
 Methods in a Doubly Linked List class
 -size(), isEmpty(), first(), last(), addFirst()
+
+NB: When doing an equivalence testing with Lists; a concept of "erasure" must come to mind where java can not determine at runtime; the parameter you passed into the generic parameter
+
+
+Cloning Data Structure

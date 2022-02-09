@@ -10,7 +10,7 @@ public class DoublyLinkedList {
             prev = p;
             next = n;
         }
-    public String getStringlement(){return element;}
+    public String getStringelement(){return element;}
     public Node<String> getPrev(){return prev;}
     public Node<String> getNext(){return next;}
     public void setPrev(Node<String> p) {prev = p;}
@@ -33,11 +33,11 @@ public class DoublyLinkedList {
     public boolean isEmpty(){return size ==0;}
     public String first(){
         if(isEmpty()) return null;
-        return header.getNext().getStringlement();
+        return header.getNext().getStringelement();
     }
     public String last(){
         if(isEmpty()) return null;
-        return trailer.getPrev().getStringlement();
+        return trailer.getPrev().getStringelement();
     }
     public void addFirst(String e){
         addBetweenNode(e, header, header.getNext());
@@ -60,9 +60,12 @@ public class DoublyLinkedList {
 
 
     private Node<String> remove(Node<String> node) {
-        Node<String> predecessor = 
-
-        return null;
+        Node<String> predecessor = node.getPrev();
+        Node<String> successor = node.getNext();
+        predecessor.setNext(successor);
+        successor.setPrev(predecessor);
+        size --;
+        return node.getStringlement();
     }
     private void addBetweenNode(String e, Node<String> predecessor, Node<String> successor) {
         Node<String> newest = new Node<>(e, predecessor, successor);
