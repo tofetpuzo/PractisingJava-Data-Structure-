@@ -14,7 +14,7 @@ public class Matrices {
     void buildMatrices() {
         Scanner row = new Scanner(System.in);
         Scanner col = new Scanner(System.in);
-        Scanner dataA = new Scanner(System.in);
+        Scanner dataA = new Scanner(System.in)
         Scanner dataB = new Scanner(System.in);
         System.out.print("Enter the first matrix dimension value: ");
         int numsrowA = row.nextInt();
@@ -36,11 +36,7 @@ public class Matrices {
             // //System.out.println("Enter numbers for the cols in the matrix: ");
             // } //System.out.println(matArows);
             // System.out.print(i + "" + j + " ");//System.out.print(i + "" + j + " ");
-        }
-        System.out.println(matAcols);
-        System.out.println(matArows);
-
-    }
+        }System.out.println(matAcols); System.out.println(matArows);
 
     public ArrayList<Integer> buildMatriceB() {
         buildMatrices();
