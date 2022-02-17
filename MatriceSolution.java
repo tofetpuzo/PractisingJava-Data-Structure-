@@ -15,8 +15,6 @@ public class MatriceSolution {
 
     int rows;
     int cols;
-    ArrayList<Integer> matArows = new ArrayList<>(rows);
-    ArrayList<Integer> matAcols = new ArrayList<>(cols);
     // ArrayList matArows = new ArrayList();
 
     public List<List<Integer>> buildMatrices() {
@@ -54,8 +52,8 @@ public class MatriceSolution {
     }
 
     public void addMatrices(List<List<Integer>> matA, List<List<Integer>> matB) {
-
-        int[][] matriceA = matA.stream().map(u -> u.stream().mapToInt(i -> i).toArray(toArray(int[][]::new))));
+  
+        int[][] matriceA = matA.stream().map(u -> u.stream().mapToInt(i -> i).toArray()).toArray(int[][]::new));
         int[][] matriceB = matB.stream().map(u -> u.stream().mapToInt(i -> i).toArray()).toArray(int[][]::new));
         int[][] res = new int[matriceA.length][matriceB.length];
 
@@ -66,9 +64,7 @@ public class MatriceSolution {
 
         }
         System.out.println("FOR LIST LIST ----- ");
-        List<List<Integer>> nestedLists = Arrays.stream(res)
-                .map(internalArray -> Arrays.stream(internalArray).boxed().collect(Collectors.toList()))
-                .collect(Collectors.toList());
+        List<List<Integer>> nestedLists = Arrays.stream(res).map(internalArray -> Arrays.stream(internalArray).boxed().collect(Collectors.toList())).collect(Collectors.toList());
         nestedLists.forEach(System.out::println);
     }
 
